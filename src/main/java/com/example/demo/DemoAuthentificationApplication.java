@@ -9,7 +9,7 @@ import org.springframework.context.annotation.Bean;
 
 import com.example.demo.entities.AppRole;
 import com.example.demo.entities.AppUser;
-import com.example.demo.service.AccountService;
+import com.example.demo.services.AccountService;
 
 @SpringBootApplication
 public class DemoAuthentificationApplication {
